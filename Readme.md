@@ -71,7 +71,7 @@ Data Understanding is as a result of ***Data Exploration,* *Univariate Data Anal
 
 * Gender
 
-![1717434978190](image/Readme/1717434978190.png)
+    ![1717434978190](image/Readme/1717434978190.png)
 
 * Age
 
@@ -90,4 +90,4 @@ Data Understanding is as a result of ***Data Exploration,* *Univariate Data Anal
   ![1717435189454](image/Readme/1717435189454.png)
 * Product_Category
 
-![1717435202442](image/Readme/1717435202442.png)
+    ![1717435202442](image/Readme/1717435202442.png)
